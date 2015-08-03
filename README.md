@@ -48,7 +48,7 @@ So that your `build.gradle` in the root looks like this:
       }
       dependencies {
           classpath 'com.android.tools.build:gradle:1.0.0'
-          classpath 'com.github.dcendents:android-maven-plugin:1.2'
+          classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3'
           classpath "com.jfrog.bintray.gradle:gradle-bintray-plugin:1.1"
       }
   }
